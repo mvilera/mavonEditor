@@ -200,7 +200,7 @@
                 s_subfield: (() => {
                     return this.subfield;
                 })(),
-                s_autofocus: true,
+                s_autofocus: false,
                 // 标题导航
                 s_navigation: (() => {
                     return this.navigation;
